@@ -1,6 +1,6 @@
 {
-  "token": "your_bot_token",
-  "prefix": "your_prefix",
+  "token": "OTAyMzMwNTU2MTcwMjY0NjE3.YXc20Q.ra-VAlyXLrJYK1bus9cEsu0JNuQ",
+  "prefix": "!",
 
   "clientsettings": {
     "nodes": [
@@ -13,8 +13,8 @@
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "c82160dfbe634c40b0959c796ae94801",
+    "clientID": "d933f81836d540619ae21165a6d190f6"
   },
 
   "settings": {
